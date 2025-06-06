@@ -78,7 +78,7 @@ Sebuah sistem prediksi beban kerja karyawan IT berbasis algoritma **Linear Regre
 # Jalankan Laravel
 php artisan serve
 
-# Jalankan Python Flask API (di folder Python kamu)
+## Jalankan Python Flask API (di folder Python kamu)
 # Masuk dulu ke direktori flask-api
 - cd flask-api
 # Aktifkan environment untuk flask
