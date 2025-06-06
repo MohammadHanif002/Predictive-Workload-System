@@ -59,3 +59,30 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Predictive Workload System
+
+Sebuah sistem prediksi beban kerja karyawan IT berbasis algoritma **Linear Regression**, yang dikembangkan menggunakan Laravel dan Python Flask API.
+
+## 🎯 Fitur
+- Prediksi jam kerja berdasarkan pengalaman, jumlah proyek, dan rating kinerja
+
+## 📦 Teknologi yang Digunakan
+- Laravel 11 (PHP)
+- Tailwind CSS
+- Chart.js
+- Flask API (Python)
+- Scikit-learn (Machine Learning)
+
+## 🚀 Cara Menjalankan
+# Jalankan Laravel
+php artisan serve
+
+# Jalankan Python Flask API (di folder Python kamu)
+# Masuk dulu ke direktori flask-api
+- cd flask-api
+# Aktifkan environment untuk flask
+- ..\venv\Scripts\Activate.ps1
+
+  
+
